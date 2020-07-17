@@ -2,7 +2,7 @@
 -- version 4.5.1
 -- http://www.phpmyadmin.net
 --
--- Host: 127.0.0.1
+-- Host: 127.0.0.1 
 -- Generation Time: Jun 12, 2016 at 05:35 PM
 -- Server version: 10.1.13-MariaDB
 -- PHP Version: 5.6.21
